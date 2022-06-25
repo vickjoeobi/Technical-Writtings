@@ -41,6 +41,8 @@ After activating your developer pack, you can now follow the steps below.
 
 Congratulations, you now have your Co-Pilot activated for free. 
 
+**NB**: This also works for GitHub verified open source maintainers. 
+
 ![Congratulations](https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif)
 
 Feel free to drop a comment if you have any confusion, I will definitely engage you, and also check out other articles on my blog.  
