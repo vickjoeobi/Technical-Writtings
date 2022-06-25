@@ -1,4 +1,4 @@
-## Get a "FREE" GitHub Co-Pilot account as a student
+## Get a "FREE" GitHub Co-Pilot license as a student
 
 # What is GitHub Co-Pilot
 
