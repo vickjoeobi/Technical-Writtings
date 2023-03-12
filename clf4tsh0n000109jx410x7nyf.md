@@ -146,7 +146,7 @@ Third, recursion can have performance issues, especially for large datasets. Rec
 
 Recursion has several real-life applications, from mathematical computations to computer science problems. Here are a few examples:
 
-* **Factorial**: The factorial of a number is a classic example of recursion. The factorial of n is defined as n! = n *(n-1)* (n-2) *...* 1\. The factorial can be computed recursively as follows:
+* **Factorial**: The factorial of a number is a classic example of recursion. The factorial of n is defined as n! = n *(n-1)* (n-2) *...* 1. The factorial can be computed recursively as follows:
     
 
 ```python
@@ -211,3 +211,16 @@ pythonCopy codedef fibonacci(n):
     ## VIII. Conclusion
     
     Recursion is a powerful technique in programming that allows us to solve complex problems by breaking them down into smaller subproblems. It has several advantages, such as reducing code length and simplifying problem-solving. However, it also has some disadvantages, such as stack overflow errors and performance issues. By understanding the basics of recursion, the types of recursion, and real-life examples, we can use this technique effectively in our programs.
+    
+
+Some of the references include:
+
+* Python official documentation on recursion: [**https://docs.python.org/3/tutorial/controlflow.html#defining-functions**](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+    
+* Real Python article on recursion in Python: [**https://realpython.com/python-recursion/**](https://realpython.com/python-recursion/)
+    
+* GeeksforGeeks tutorial on recursion in Python: [**https://www.geeksforgeeks.org/recursion-in-python/**](https://www.geeksforgeeks.org/recursion-in-python/)
+    
+* Programiz tutorial on recursion in Python: [**https://www.programiz.com/python-programming/recursion**](https://www.programiz.com/python-programming/recursion)
+    
+* DataCamp tutorial on recursion in Python: [**https://www.datacamp.com/community/tutorials/understanding-recursion-python-tutorial**](https://www.datacamp.com/community/tutorials/understanding-recursion-python-tutorial)
