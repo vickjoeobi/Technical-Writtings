@@ -3,6 +3,7 @@ title: "From Pencils to Pixels: Is Your Child's Learning Outdated?"
 datePublished: Sun Oct 08 2023 14:23:36 GMT+0000 (Coordinated Universal Time)
 cuid: clnhk1a0d000l08jrhgwtczq9
 slug: from-pencils-to-pixels-is-your-childs-learning-outdated
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696775251562/188f7d57-768c-40dc-8030-7464c0c27e74.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696774989142/d8f0558b-b621-4947-9c73-17cef0320ddc.png
 tags: education, parenting
 
